@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Metric Conversion Application</string>
+    <string name="preference_file_key">metric-conversion</string>
+</resources>
